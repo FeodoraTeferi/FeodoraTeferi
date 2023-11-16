@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeodoraTeferi
-- 👀 I’m interested in programming and web devolopment
-- 🌱 I’m currently learning AWS Cloud Computing
+- 👀 I’m interested in software engineering and web development
+- 🌱 I’m currently a Computer Science major
 - 📫 Reach me at feodorateferi@gmail.com
 
 <!---
